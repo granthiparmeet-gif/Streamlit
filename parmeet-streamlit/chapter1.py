@@ -15,6 +15,7 @@ st.write(f"You are a {sex}")
 
 st.success("You have selected your sex")
 st.warning("This is a warning")
+st.warning("Make sure you are right")
 st.info("This is an info")
 st.error("You have put a wrong value")
 st.exception(exception=True)
